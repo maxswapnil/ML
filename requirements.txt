@@ -1,0 +1,10 @@
+numpy
+pandas
+sklearn
+flask
+flask-restful
+gunicorn
+pickle
+scipy
+joblib
+
